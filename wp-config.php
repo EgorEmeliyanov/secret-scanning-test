@@ -26,7 +26,7 @@ define( 'DB_NAME', 'wordpress-hackme' );
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', '064&00Wxu$bU^C3' );
+define( 'DB_PASSWORD', '064&00Wxubb$bU^C3' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
